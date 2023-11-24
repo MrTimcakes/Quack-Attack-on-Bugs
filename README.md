@@ -25,7 +25,7 @@
 
 ![GitHub license](https://img.shields.io/github/license/MrTimcakes/Quack-Attack-on-Bugs?style=for-the-badge)
 
-[![PRs Denied](https://img.shields.io/badge/PRs-denied-red.svg?style=for-the-badge)]
+![PRs Denied](https://img.shields.io/badge/PRs-denied-red.svg?style=for-the-badge)
 
 # License
 
